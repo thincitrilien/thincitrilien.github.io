@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://caopiaoa.github.com/sitemap.xml
+Sitemap: https://caopiaoa.github.com/baidusitemap.xml
